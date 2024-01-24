@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>HomeScreen.qml</file>
+        <file>Radio/ListViewForRadioStation.qml</file>
+        <file>Radio/Radio.qml</file>
+        <file>deployment.pri</file>
+        <file>qml.qrc</file>
+        <file>RadioMainPage.pro</file>
+        <file>Radio/MenuButtonList.qml</file>
+        <file>Radio/DispayOffScreen.qml</file>
+        <file>Radio/DeletePresets.qml</file>
+        <file>Radio/ProgressBar.qml</file>
+    </qresource>
+</RCC>
